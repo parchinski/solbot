@@ -1,0 +1,14 @@
+{
+  "name": "solbot",
+  "module": "solana-bot.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "console-table-printer": "^2.12.1"
+  }
+}
